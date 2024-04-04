@@ -1,0 +1,24 @@
+{
+  "name": "contextjs",
+  "version": "1.0.0",
+  "description": "Creating context on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancarlosparragalan/ContextJS.git"
+  },
+  "author": "Juan Carlos Parra Galan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancarlosparragalan/ContextJS/issues"
+  },
+  "homepage": "https://github.com/juancarlosparragalan/ContextJS#readme",
+  "dependencies": {
+    "dynamoose": "^3.1.0",
+    "nodemon": "^2.0.20",
+    "vm": "^0.1.0"
+  }
+}
